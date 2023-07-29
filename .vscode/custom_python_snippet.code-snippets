@@ -1,0 +1,18 @@
+{
+	"String Input": {
+		"prefix": "sinput",
+		"body": [
+			"${1:variableName} = input(f'Enter a string for ${1:variableName}: ')",
+			"$2"
+		],
+		"description": "Prompt user for a string input and assign it to a variable"
+	},
+	"Integer Input": {
+		"prefix": "iinput",
+		"body": [
+			"${1:variableName} = int(input(f'Enter an integer for ${1:variableName}: '))",
+			"$2"
+		],
+		"description": "Prompt user for an integer input and assign it to a variable"
+	}
+}

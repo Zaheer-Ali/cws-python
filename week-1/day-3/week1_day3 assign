@@ -1,0 +1,35 @@
+# Q1
+# num1 = int(input("Enter a number:"))
+# num2 = int(input("Enter a number:"))
+# sum = num1+num2
+# print(f"The sum of two numbers is {sum}")
+
+# Q2
+# KM = int(input("Enter no of kilometers:"))
+# conversion = KM*0.621371
+# print(f"So {KM} km converted to miles is {conversion} miles")
+
+# Q3
+# num1 = int(input("enter a number:"))
+# num2 = int(input("enter a number:"))
+# num3 = int(input("enter a number:"))
+# average = (num1+num2+num3)/3
+# print(f"The average of 3 numbers is {average}")
+
+# Q4
+# rupees = int(input("Enter amount in rupees:"))
+# paise = rupees*100
+# print(f"Amount in paise is {paise}")
+
+# Q5
+# side = int(input("Enter the length of side of square:"))
+# area = side*side
+# print(f"The area of square is {area}")
+
+# Q6
+# games_played = int(input("Enter no of games played:"))
+# games_won = int(input("Enter no of games won:"))
+# games_lost = int(input("Enter no of games lost:"))
+# games_tied = (games_played)-(games_won)-(games_lost)
+# total_points = (games_won*4) + (games_tied*2)
+# print(f"No of games tied are {games_tied} and total points are {total_points}")

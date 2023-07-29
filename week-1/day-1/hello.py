@@ -1,0 +1,9 @@
+maths = 80
+physics=70
+english=90
+chemistry=70
+history=60
+total = maths+physics+english+chemistry+history
+percentage=(total/500)*100
+print("Total marks obtained out of 500 = ",total)
+print("percentage obtained =", percentage)

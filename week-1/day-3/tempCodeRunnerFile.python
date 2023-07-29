@@ -1,0 +1,6 @@
+ames_played = int(input("Enter no of games played:"))
+# games_won = int(input("Enter no of games won:"))
+# games_lost = int(input("Enter no of games lost:"))
+# games_tied = (games_played)-(games_won)-(games_lost)
+# total_points = (games_won*4) + (games_tied*2)
+# print(f"No of games tied are {games_tied} and total points are {total_points}")
