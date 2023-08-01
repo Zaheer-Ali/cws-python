@@ -1,6 +1,7 @@
 # Python Learning Repository
 
-![image](https://github.com/Zaheer-Ali/cws-python/assets/133632359/1119e468-1a45-4eb0-bf2f-948b6c46e4ef)
+![image](https://github.com/Zaheer-Ali/cws-python/assets/133632359/14d99579-74bf-4bc6-a0c1-8297d8c26942)
+
 
 
 Welcome to my Python Learning Repository! This repository contains a collection of Python code files organized on a weekly basis. Each week's folder covers different topics related to Python, including Python basics, loops, functions, lists, and much more. This README will help you navigate through the repository and understand its structure.
